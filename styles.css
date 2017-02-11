@@ -1,18 +1,12 @@
-<head>
-.serif{
-   font-family: "Times new roman", Times, serif; 
+h1 {
+    font-family: font-family: Arial, Helvetica, sans-serif;
 }
-.sansserif {
-    font-family: Arial, Helvetica, sans-serif;
-}
+    
 
 body{
     background-color:darkmagenta;
 /*    a comment*/
 }
 
-<h1>CSS font-family</h1>
-<p class="serif"></p>
-<p class="sansserif"></p>
 
-</body>
+
