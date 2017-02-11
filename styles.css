@@ -2,3 +2,13 @@ body{
     background-color:darkmagenta;
 /*    a comment*/
 }
+
+.serif{
+   font-family: "Times new roman", Times, serif; 
+}
+<body>
+
+<h1>CSS font-family</h1>
+<p class="serif">.</p>
+
+</body>
